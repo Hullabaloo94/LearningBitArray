@@ -1,0 +1,10 @@
+C:\Users\Jason\source\repos\LearningBitArray\LearningBitArray\bin\Debug\netcoreapp3.0\LearningBitArray.exe
+C:\Users\Jason\source\repos\LearningBitArray\LearningBitArray\bin\Debug\netcoreapp3.0\LearningBitArray.deps.json
+C:\Users\Jason\source\repos\LearningBitArray\LearningBitArray\bin\Debug\netcoreapp3.0\LearningBitArray.runtimeconfig.json
+C:\Users\Jason\source\repos\LearningBitArray\LearningBitArray\bin\Debug\netcoreapp3.0\LearningBitArray.runtimeconfig.dev.json
+C:\Users\Jason\source\repos\LearningBitArray\LearningBitArray\bin\Debug\netcoreapp3.0\LearningBitArray.dll
+C:\Users\Jason\source\repos\LearningBitArray\LearningBitArray\bin\Debug\netcoreapp3.0\LearningBitArray.pdb
+C:\Users\Jason\source\repos\LearningBitArray\LearningBitArray\obj\Debug\netcoreapp3.0\LearningBitArray.AssemblyInfoInputs.cache
+C:\Users\Jason\source\repos\LearningBitArray\LearningBitArray\obj\Debug\netcoreapp3.0\LearningBitArray.AssemblyInfo.cs
+C:\Users\Jason\source\repos\LearningBitArray\LearningBitArray\obj\Debug\netcoreapp3.0\LearningBitArray.dll
+C:\Users\Jason\source\repos\LearningBitArray\LearningBitArray\obj\Debug\netcoreapp3.0\LearningBitArray.pdb
